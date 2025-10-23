@@ -1,4 +1,4 @@
-# Aula Prática – Git Local (sem GitHub)
+ # Aula Prática – Git Local (sem GitHub)
 
 ## Objetivo
 
@@ -304,9 +304,10 @@ Agora, o foco é editar os arquivos de documentação, como o `README.md`, no re
 
 Depois de editar a documentação, o próximo passo é versionar as alterações e enviá-las para o repositório remoto. Isso envolve o uso dos comandos de commit e push, que são o núcleo do controle de versões no Git.
 
-
 <p align="center">
+ <br>
   <img style="height = 100px; width = 200px;" src="https://cdn-icons-png.flaticon.com/512/5711/5711569.png" alt="Icone" />
+ <br>
 </p>
 
 
