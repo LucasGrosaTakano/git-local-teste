@@ -268,6 +268,8 @@ Esses passos são bastante diretos e essenciais para o início do processo de in
 
 Aqui, o [GitFluence](https://www.gitfluence.com/) é utilizado para gerar comandos Git para integração entre o repositório local e o GitHub remoto. A explicação também inclui exemplos de comandos para interação com o repositório remoto.
 
+![](https://s10.aconvert.com/convert/p3r68-cdx67/acs5c-gmavy.jpg "imagem")
+
 ### Comandos e Explicações:
 
 * **Comando Git: `git push -u origin documentacao-colaboracao`**
@@ -348,7 +350,7 @@ Adicionar colaboradores a um repositório privado no GitHub é um passo crucial 
 
 
 
----
+
 
 
 
