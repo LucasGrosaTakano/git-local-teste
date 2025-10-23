@@ -306,7 +306,7 @@ Depois de editar a documentação, o próximo passo é versionar as alterações
 
 <p align="center">
  <br>
-  <img style="height = 25%; width = 50%;" src="https://cdn-icons-png.flaticon.com/512/5711/5711569.png" alt="Icone" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5711/5711569.png" alt="Icone" />
  <br>
 </p>
 
