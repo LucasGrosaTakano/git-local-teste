@@ -303,6 +303,7 @@ Agora, o foco é editar os arquivos de documentação, como o `README.md`, no re
 ## 2.4. Commit e Push das Alterações
 
 Depois de editar a documentação, o próximo passo é versionar as alterações e enviá-las para o repositório remoto. Isso envolve o uso dos comandos de commit e push, que são o núcleo do controle de versões no Git.
+![](https://cdn-icons-png.flaticon.com/512/5711/5711569.png)
 
 ### Comandos e Explicações:
 
@@ -319,34 +320,6 @@ Esses comandos são cruciais para garantir que as mudanças locais sejam integra
 
 ---
 
-## 3. Integração e Colaboração (GitHub)
-
-Agora, abordamos a colaboração propriamente dita no GitHub, através da criação de Pull Requests e da adição de colaboradores.
-
-## 3.1. Abrir um Pull Request (PR)
-
-O Pull Request (PR) é a forma como você solicita que suas alterações sejam mescladas com o repositório principal. Após enviar o branch para o GitHub, o GitHub oferece automaticamente a opção de abrir um PR.
-
-### Passos:
-
-* Acesse seu fork no GitHub.
-* O GitHub geralmente sugere automaticamente a criação de um PR.
-* Selecione o branch `documentacao-colaboracao` e crie o PR para o branch `main` do repositório original.
-
-
----
-
-## 3.2. Adicionar Várias Pessoas a um Repositório PRIVADO
-
-Adicionar colaboradores a um repositório privado no GitHub é um passo crucial para projetos colaborativos, especialmente quando o repositório não é público.
-
-### Passos:
-
-1. Acesse o repositório no GitHub.
-2. Clique em **Settings** (Configurações).
-3. No menu lateral, vá até a seção **Access** e clique em **Collaborators**.
-4. Clique em **Add people** (Adicionar pessoas) e procure pelo nome ou e-mail do colaborador.
-5. O GitHub enviará um convite para o colaborador aceitar e começar a contribuir.
 
 
 
