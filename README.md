@@ -303,7 +303,10 @@ Agora, o foco é editar os arquivos de documentação, como o `README.md`, no re
 ## 2.4. Commit e Push das Alterações
 
 Depois de editar a documentação, o próximo passo é versionar as alterações e enviá-las para o repositório remoto. Isso envolve o uso dos comandos de commit e push, que são o núcleo do controle de versões no Git.
+
+
 ![](https://cdn-icons-png.flaticon.com/512/5711/5711569.png)
+
 
 ### Comandos e Explicações:
 
